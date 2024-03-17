@@ -1,0 +1,5 @@
+classes= 3
+train  = /content/drive/MyDrive/Colab_Notebooks/test2/darknet/cfg/cfg/train.txt
+valid  = /content/drive/MyDrive/Colab_Notebooks/test2/darknet/cfg/cfg/vaild.txt
+names = D:\ml\ml\yolo_hand.names
+backup = /content/drive/MyDrive/Colab_Notebooks/test2/darknet/weights
